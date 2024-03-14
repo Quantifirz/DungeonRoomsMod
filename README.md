@@ -18,7 +18,7 @@ Long Answer: https://quantizr.github.io/posts/is-it-bannable/
 
 ### Download Secret Syncer
 
-[Download Link](https://cdn.discordapp.com/attachments/1078426708073533511/1216495163061436416/DungeonRoomsSecretSync-5.0.jar?ex=66009868&is=65ee2368&hm=5a1d46796157377b81ba51c954ac9acbefaf8712e9886069ca2c6b8f8fc31075&)
+[Download Link](https://cdn.discordapp.com/attachments/1078426708073533511/1217868313971916871/DungeonRoomsSecretSync-5.6.jar?ex=66059740&is=65f32240&hm=800973be15ecb36970024536fcd149793cf352e2a9a120b759dcdec6e9f0c8c6&)
 
 ### Hotkeys:
 (Configurable in Controls Menu)
